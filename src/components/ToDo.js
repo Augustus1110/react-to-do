@@ -9,4 +9,3 @@ class ToDo extends Component {
 }
 
 export default ToDo;
-<li>delete line</li>
